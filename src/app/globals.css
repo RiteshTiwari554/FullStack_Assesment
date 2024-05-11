@@ -58,7 +58,7 @@
   height: 22px;
   
 }
-.frame574{
+.frame574emtl{
   position: absolute;
   width: 390px;
   height: 379px;
@@ -370,7 +370,7 @@ background: rgba(25, 118, 210, 1);
     text-align: left;
     left: 0px;
   }
-  .frame574{
+  .frame574emtl{
     position: absolute;
     top: 400px;
     left: 0px;

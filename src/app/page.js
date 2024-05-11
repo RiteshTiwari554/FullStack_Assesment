@@ -46,7 +46,7 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="frame574">
+        <div className="frame574emtl">
             <div 
             className="Signbox">
                 <h3 className=" font signheader">Sign up</h3>
