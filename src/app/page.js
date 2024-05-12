@@ -54,14 +54,14 @@ export default function Home() {
             </div>
             <div className="frame567">
               <div className="frame18">
-                  <div 
+                  <button
                   className="frame564"
                   onClick={handleSigin}
                   >
                       <Image src={google} className="googlepng" alt="google"/>
                       <h3 className=" font gglsigntxt">Sign up with Google</h3>
-                  </div>
-              <div 
+                  </button>
+              <button 
               className=" frame18 bbx"
               onClick={handleemailSigin}
               >
@@ -69,7 +69,7 @@ export default function Home() {
                       <Image src={msg} className="googlepng" alt="google"/>
                       <h3 className=" font gglsigntxt">Sign up with Email</h3>
                   </div>
-              </div>
+              </button>
               
               </div>
             </div>
